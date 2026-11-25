@@ -32,7 +32,6 @@ The core FFmpeg processing engine, REST APIs, asynchronous job processing, Postg
 
 Currently working on cloud storage integration, distributed workers, and infrastructure scalability.
 
-**Current Progress:** 25 automated backend tests passing.
 
 ---
 
